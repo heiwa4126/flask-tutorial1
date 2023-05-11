@@ -1,0 +1,2 @@
+flask>=2.3
+# yaml_env_var_parser>=1.1.1
